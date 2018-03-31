@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InputMeasurement.iml" filepath="$PROJECT_DIR$/InputMeasurement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/measurement/measure.iml" filepath="$PROJECT_DIR$/measurement/measure.iml" />
+      <module fileurl="file://C:\Users\Tojo\Desktop\AndroidStdioProjects\InputMeasurement\measurement\measure.iml" filepath="C:\Users\Tojo\Desktop\AndroidStdioProjects\InputMeasurement\measurement\measure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/measurement/measurement.iml" filepath="$PROJECT_DIR$/measurement/measurement.iml" />
     </modules>
   </component>
 </project>
